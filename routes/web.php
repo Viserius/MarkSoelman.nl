@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'Home\HomeController@index')->name('home.index');
+Route::get('/resume', 'Resume\ResumeController@index')->name('resume.index');
