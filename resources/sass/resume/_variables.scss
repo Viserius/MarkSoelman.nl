@@ -8,21 +8,52 @@ $font-size-base: 0.9rem;
 $line-height-base: 1.6;
 
 // Colors
+$white:    #fff;
+$gray-100: #f8f9fa;
+$gray-200: #e9ecef;
+$gray-300: #dee2e6;
+$gray-400: #ced4da;
+$gray-500: #adb5bd;
+$gray-600: #6c757d;
+$gray-700: #495057;
+$gray-800: #343a40;
+$gray-900: #212529;
+$black:    #000;
+
 $blue: #3490dc;
 $indigo: #6574cd;
 $purple: #9561e2;
 $pink: #f66D9b;
 $red: #e3342f;
 $orange: #f6993f;
-$yellow: #ffed4a;
+$yellow: #cca82d;
 $green: #38c172;
 $teal: #4dc0b5;
 $cyan: #6cb2eb;
 
 // Theming colors
-$primary: #cca82d;
+$primary:       $yellow;
+$primary-darker:darken($primary, 10%);
+$secondary:     $gray-600;
+$success:       $green;
+$info:          $cyan;
+$warning:       $yellow;
+$danger:        $red;
+$light:         $gray-100;
+$dark:          $gray-800;
+$dark-lighter: lighten($dark, 10%);
+
+$theme-colors: (
+        "primary-darker": $primary-darker,
+        "dark-lighter": $dark-lighter
+);
 
 // A4 sizing
 $a4-height: 297mm;
 $a4-width: 210mm;
 $a4-printmargins: 10mm;
+$a4-innerborder: 5px;
+$a4-innerwidth: $a4-width - 2*$a4-printmargins - 2*$a4-innerborder;
+
+// Underlines
+$underline-width: 2px;

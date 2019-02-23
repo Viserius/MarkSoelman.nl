@@ -20,9 +20,9 @@ body {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 .subpage {
-  border: 5px $primary solid;
+  border: $a4-innerborder $primary solid;
   height: 277mm;
-  outline: $a4-printmargins darkgray solid;
+  outline: $a4-printmargins $dark-lighter solid;
   background-color: $body-bg;
 }
 
