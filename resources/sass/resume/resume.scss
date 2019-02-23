@@ -1,3 +1,5 @@
+// Name font
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:700');
 
 // Variables
 @import './variables';
@@ -10,3 +12,29 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+.name-font {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 1.4cm;
+  line-height: 1cm;
+}
+
+.profile-picture img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.fading-underline {
+  height: 1px;
+  background: $primary;
+  background: -webkit-gradient(linear, 0 0, 100% 0, from($dark), to($dark), color-stop(50%, $primary));
+}
+
+.horizontal-colored-border {
+  height: 1cm;
+  width: 10cm;
+  background-color: rgba($primary, .7);
+  position: absolute;
+  margin-top: -1cm;
+}
