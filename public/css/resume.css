@@ -6,6 +6,7 @@ body {
   margin: 0;
   padding: 0;
   font: 12pt "Tahoma";
+  background-image: url(/images/background-pattern.png?da6ba6c64b10278ee4e37d37216c89b8);
 }
 
 * {
@@ -18,10 +19,10 @@ body {
   min-height: 297mm;
   padding: 10mm;
   margin: 10mm auto;
-  border: 1px #D3D3D3 solid;
+  border: 1px #cca82d solid;
   border-radius: 5px;
   background: white;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
 }
 
 .subpage {
@@ -16753,15 +16754,14 @@ readers do not read off random characters that represent icons */
 }
 
 .profile-picture {
-  max-width: 100%;
-  max-height: 100%;
+  max-height: 300px;
   overflow: hidden;
 }
 
 .profile-picture img {
-  width: 300px;
-  height: 300px;
+  max-height: 362.88px;
   margin-left: -1cm;
+  margin-top: -1cm;
   position: relative;
 }
 
@@ -16779,35 +16779,123 @@ readers do not read off random characters that represent icons */
   margin-top: -1.1cm;
 }
 
-p.text-small {
+.text-small {
   font-size: 0.3cm;
 }
 
-p.text-smaller {
+.text-smaller {
   font-size: 2.5mm;
 }
 
-.sidebar-header-underline {
+.sidebar-header-underline,
+.main-header-underline {
   height: 2px;
   background: #cca82d;
 }
 
-.sidebar-header-underline-before {
+.sidebar-header-underline-before-contact {
   position: absolute;
   right: 0;
   margin-top: -2px;
   height: 3px;
   background: #cca82d;
-  width: 1cm;
+  width: 18mm;
 }
 
-.sidebar-header-underline-after {
+.sidebar-header-underline-after-contact {
   position: absolute;
   right: 0;
   margin-top: -1px;
   height: 3px;
   background: #cca82d;
-  width: 1cm;
+  width: 18mm;
+}
+
+.sidebar-header-underline-before-skills {
+  position: absolute;
+  right: 0;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 35mm;
+}
+
+.sidebar-header-underline-after-skills {
+  position: absolute;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 35mm;
+}
+
+.sidebar-header-underline-before-langs {
+  position: absolute;
+  right: 0;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 54mm;
+}
+
+.sidebar-header-underline-after-langs {
+  position: absolute;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 54mm;
+}
+
+.main-header-underline-before-ed {
+  position: absolute;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 34mm;
+}
+
+.main-header-underline-after-ed {
+  position: relative;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 34mm;
+}
+
+.main-header-underline-before-exp {
+  position: absolute;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 59mm;
+}
+
+.main-header-underline-after-exp {
+  position: relative;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 59mm;
+}
+
+.main-header-underline-before-prj {
+  position: absolute;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 28mm;
+}
+
+.main-header-underline-after-prj {
+  position: relative;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 28mm;
 }
 
 .sidebar-icon {
@@ -16850,6 +16938,14 @@ p.text-smaller {
 }
 
 .skill-title {
-  margin-top: 2mm;
+  margin-top: 1mm;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-italic {
+  font-style: italic;
 }
 

@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font: 12pt "Tahoma";
+  background-image: url('../../images/background-pattern.png');
 }
 * {
   box-sizing: border-box;
@@ -14,10 +15,10 @@ body {
   min-height: $a4-height;
   padding: $a4-printmargins;
   margin: $a4-printmargins auto;
-  border: 1px #D3D3D3 solid;
+  border: 1px $primary solid;
   border-radius: 5px;
   background: white;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.5);
 }
 .subpage {
   border: $a4-innerborder $primary solid;
