@@ -49102,9 +49102,9 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\soelm\Desktop\Repositories\MarkSoelman.nl\resources\js\app.js */"./resources/js/app.js");
-__webpack_require__(/*! C:\Users\soelm\Desktop\Repositories\MarkSoelman.nl\resources\sass\app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! C:\Users\soelm\Desktop\Repositories\MarkSoelman.nl\resources\sass\resume\resume.scss */"./resources/sass/resume/resume.scss");
+__webpack_require__(/*! /home/vagrant/code/marksoelman.nl/resources/js/app.js */"./resources/js/app.js");
+__webpack_require__(/*! /home/vagrant/code/marksoelman.nl/resources/sass/app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! /home/vagrant/code/marksoelman.nl/resources/sass/resume/resume.scss */"./resources/sass/resume/resume.scss");
 
 
 /***/ })

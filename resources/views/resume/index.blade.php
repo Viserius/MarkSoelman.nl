@@ -29,8 +29,7 @@
                             My expertise is in solving complex problems and engineering efficient solutions using software languages.
                             I have a preference for object-oriented programming languages.
                             My native language is Dutch and I am also fluent in English.
-                            Currently, I am in the last year of my Bachelor in Computing Science
-                                and am looking for a new challenge for the summer of 2019.
+                            Currently, I am in the first year of my Master in Computing Science.
                         </p>
                     </div>
                 </div>
@@ -341,30 +340,27 @@
                                 <div class="main-header-underline-after-ed"></div>
                             </div>
 
-                            <!-- University of Groningen -->
+                            <!-- Master -->
                             <div class="row text-small mr-4">
                                 <div class="col-3">
-                                    <p class="text-bold mb-0 text-right">2016 - present</p>
+                                    <p class="text-bold mb-0 text-right">2019 - present</p>
+                                    <p class="text-italic text-smaller text-right mb-0">University of Groningen</p>
+                                </div>
+                                <div class="col-9">
+                                    <p class="text-bold mb-0"><span class="text-primary">Computing Science</span> | Master of Science</p>
+                                    <p class="text-smaller">I am currently enrolled in the Master's track: <span class="text-primary text-bold">Software Engineering and Distributed Systems</span>.</p>
+                                </div>
+                            </div>
+
+                            <!-- Bachelor -->
+                            <div class="row text-small mr-4">
+                                <div class="col-3">
+                                    <p class="text-bold mb-0 text-right">2016 - 2019</p>
                                     <p class="text-italic text-smaller text-right mb-0">University of Groningen</p>
                                 </div>
                                 <div class="col-9">
                                     <p class="text-bold mb-0"><span class="text-primary">Computing Science</span> | Bachelor of Science</p>
-                                    <p class="text-smaller">I am currently in the last year of my study. I expect to finish my study in June.</p>
-                                </div>
-                            </div>
-
-                            <!-- Propaedeutic Degree Certificate -->
-                            <div class="row text-small mr-4">
-                                <div class="col-3">
-                                    <p class="text-bold text-right mb-0">2017</p>
-                                    <p class="text-italic text-smaller text-right mb-0">University of Groningen</p>
-                                </div>
-                                <div class="col-9">
-                                    <p class="text-bold mb-0"><span class="text-primary">Computing Science</span> | Propaedeutic Degree Certificate</p>
-                                    <p class="text-smaller">
-                                        This degree was obtained during my first year of the bachelor Computing Science.
-                                        I obtained by Propaedeutic Degree Certificate with an average grade of <span class="text-primary text-bold">8.3/10</span>, which was awarded with <span class="text-primary text-bold">Cum Laude</span>.
-                                    </p>
+                                    <p class="text-smaller">I completed my bachelor's degree <span class="text-primary text-bold">Cum Laude</span>, with an average grade of <span class="text-primary text-bold">8.4/10</span>.</p>
                                 </div>
                             </div>
 
@@ -437,6 +433,20 @@
                                 <div class="main-header-underline-after-prj"></div>
                             </div>
 
+                            <!-- Hyperledger Fabric -->
+                            <div class="mr-4">
+                                <p class="text-bold mb-0 mr-4"><span class="text-primary">IBM CIC</span> | Hyperledger Fabric: Endorsement Policies</p>
+                                <p class="text-smaller">
+                                    The goal of this theoretical study was to research Hyperledger Fabric, a framework for building blockchain networks.
+
+                                    I researched the implications of endorsement policies, with respect to the ability to tamper with the ledger, privacy and how EPs can be used in various supply chain case studies.
+
+                                    This project was carried out in collaboration with IBM Client Innovation Center Benelux under an NDA. I finalized this project with a grade of 8.5.
+
+
+                                </p>
+                            </div>
+
                             <!-- BelSimpel -->
                             <div class="mr-4">
                                 <p class="text-bold mb-0 mr-4"><span class="text-primary">BelSimpel.nl</span> | Feed Generation System</p>
@@ -444,16 +454,6 @@
                                     One of the largest stores in selling phones and phone subscriptions was using a legacy system to generate certain `feeds`.
                                     These feeds contain pricing information for comparison websites.
                                     In a small team we designed a new system that used parallelism for at least 95% quicker processing.
-                                </p>
-                            </div>
-
-                            <!-- BelSimpel -->
-                            <div class="mr-4">
-                                <p class="text-bold mb-0 mr-4"><span class="text-primary">City Trip Planner</span> | Generate City Trips</p>
-                                <p class="text-smaller">
-                                    A website that generated a City Trip Schedule for any city in the world.
-                                    An external API was used to fetch all activities in that city. Our system would group all nearby activities together,
-                                    then it would generate a schedule for the user such that the user can see as much as possible within a couple of days.
                                 </p>
                             </div>
 
