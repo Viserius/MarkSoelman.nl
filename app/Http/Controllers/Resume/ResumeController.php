@@ -14,4 +14,13 @@ class ResumeController extends Controller
     {
         return view('resume.index');
     }
+
+    /**
+     * Show the resume in Dutch
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function indexnl()
+    {
+        return view('resume.indexnl');
+    }
 }

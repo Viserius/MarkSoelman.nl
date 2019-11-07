@@ -13,3 +13,4 @@
 
 Route::get('/', 'Home\HomeController@index')->name('home.index');
 Route::get('/resume', 'Resume\ResumeController@index')->name('resume.index');
+Route::get('/resume/nl', 'Resume\ResumeController@indexnl')->name('resume.indexnl');

@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('css/resume.css') }}">
 
-    <title>MarkSoelman.nl - Resume</title>
+    <title>MarkSoelman.nl - Curriculum Vitae</title>
 </head>
 <body>
 
@@ -25,11 +25,11 @@
                         <p class="text-white name-font mb-1">MARK <span class="text-primary">SOELMAN</span></p>
                         <div class="fading-underline"></div>
                         <h2 class="text-white title-font my-0 py-0">SOFTWARE ENGINEER</h2>
-                        <p class="text-white">I am a computer scientist and a software engineer.
-                            My expertise is in solving complex problems and engineering efficient solutions using software languages.
-                            I have a preference for object-oriented programming languages.
-                            My native language is Dutch and I am also fluent in English.
-                            Currently, I am in the first year of my Master in Computing Science.
+                        <p class="text-white">Ik ben een informaticus en een softwareontwikkelaar.
+                            Mijn expertise ligt bij het oplossen van complexe problemen, en het ontwerpen van efficiënte oplossingen met behulp van software.
+                            Ik heb een sterke voorkeur om te werken met objectgeoriënteerde talen.
+                            Hoewel mijn moedertaal Nederlands is, spreek ik ook vloeiend Engels.
+                            Momenteel zit ik in het eerste jaar van mijn Masteropleiding, Computing Science.
                         </p>
                     </div>
                 </div>
@@ -37,12 +37,12 @@
                 <div class="horizontal-colored-border">
                     <div class="row mx-0">
                         <div class="col-4 p-0">
-                            <p class="text-white text-center text-smaller pt-1 mb-0">DATE OF BIRTH</p>
-                            <p class="text-white text-center text-small">7th of February 1998</p>
+                            <p class="text-white text-center text-smaller pt-1 mb-0">GEBOORTEDATUM</p>
+                            <p class="text-white text-center text-small">7 februari, 1998</p>
                         </div>
                         <div class="col-8 p-0">
-                            <p class="text-white text-center text-smaller pt-1 mb-0">ADDRESS</p>
-                            <p class="text-white text-center text-small">Populierenlaan 3, 7881RC Emmer-Compascuum, THE NETHERLANDS</p>
+                            <p class="text-white text-center text-smaller pt-1 mb-0">ADRES</p>
+                            <p class="text-white text-center text-small">Populierenlaan 3, 7881RC Emmer-Compascuum, Nederland</p>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                         <!-- Mail Element -->
                         <div class="row mt-1 mr-3">
                             <div class="col-10 pt-1">
-                                <p class="text-light text-smaller-line text-smaller my-0 text-right">EMAIL</p>
+                                <p class="text-light text-smaller-line text-smaller my-0 text-right">E-MAILADRES</p>
                                 <p class="text-light text-smaller-line text-small text-right">info@marksoelman.nl</p>
                             </div>
                             <div class="col-2 px-0">
@@ -101,7 +101,7 @@
                         <!-- Phone Element -->
                         <div class="row mt-1 mr-3">
                             <div class="col-10 pt-1">
-                                <p class="text-light text-smaller-line text-smaller my-0 text-right">PHONE</p>
+                                <p class="text-light text-smaller-line text-smaller my-0 text-right">TELEFOONNUMMER</p>
                                 <p class="text-light text-smaller-line text-small text-right">(+31) 6 40 21 73 29</p>
                             </div>
                             <div class="col-2 px-0">
@@ -113,11 +113,11 @@
                         <!-- End of Contact Details -->
 
                         <!-- Start of Software Skills -->
-                        <p class="text-primary text-right mt-2 mb-0 mr-4 ">TECHNICAL SKILLS</p>
+                        <p class="text-primary text-right mt-2 mb-0 mr-4 ">VAARDIGHEDEN</p>
                         <div class="mb-2">
-                            <div class="sidebar-header-underline-before-skills mr-4"></div>
+                            <div class="sidebar-header-underline-before-skills-nl mr-4"></div>
                             <div class="sidebar-header-underline mr-4"></div>
-                            <div class="sidebar-header-underline-after-skills mr-4"></div>
+                            <div class="sidebar-header-underline-after-skills-nl mr-4"></div>
                         </div>
 
                         <!-- Start of OOP-Programming -->
@@ -131,12 +131,12 @@
                                 <p class="text-white text-smaller text-smaller-line skill-description mb-0">Expert</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">OBJECT-ORIENTED PROGRAMMING</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">OBJECTGEORIËNTEERD PROGRAMMEREN</p>
                             </div>
                         </div>
                         <!-- End of OOP-Programming -->
 
-                        <!-- Start of Cloud Programming -->
+                        <!-- Start of Cloud Computing -->
                         <div class="row mx-3 mt-1">
                             <div class="col-5 px-0">
                                 <i class="circle"></i>
@@ -144,13 +144,13 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                             <div class="col-7">
                                 <p class="text-light text-smaller-line text-smaller skill-title mb-0">CLOUD COMPUTING</p>
                             </div>
                         </div>
-                        <!-- End of Cloud Programming -->
+                        <!-- End of Cloud Computing -->
 
                         <!-- Start of Algorithms -->
                         <div class="row mx-3 mt-1">
@@ -160,10 +160,10 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">ALGORITHMS</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">ALGORITMES</p>
                             </div>
                         </div>
                         <!-- End of Algorithms -->
@@ -176,10 +176,10 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">DATA STRUCTURES</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">DATA STRUCTUREN</p>
                             </div>
                         </div>
                         <!-- End of Data Structures -->
@@ -192,10 +192,10 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">IMPERATIVE PROGRAMMING</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">IMPERATIEF PROGRAMMEREN</p>
                             </div>
                         </div>
                         <!-- End of Data Structures -->
@@ -208,10 +208,10 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">WEB DEVELOPMENT</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">WEBONTWIKKELING</p>
                             </div>
                         </div>
                         <!-- End of Web Development -->
@@ -224,10 +224,10 @@
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Intermediate</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Geavanceerd</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">FUNCTIONAL PROGRAMMING</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">FUNCTIONEEL PROGRAMMEREN</p>
                             </div>
                         </div>
                         <!-- End of Functional Programming -->
@@ -240,10 +240,10 @@
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Intermediate</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Geavanceerd</p>
                             </div>
                             <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">PARALLEL COMPUTING</p>
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">PARALLEL PROGRAMMEREN</p>
                             </div>
                         </div>
                         <!-- End of Functional Programming -->
@@ -252,11 +252,11 @@
 
                         <!-- Start of Programming Languages -->
                         <!-- Start of Software Skills -->
-                        <p class="text-primary text-right mt-2 mb-0 mr-4 ">PROGRAMMING LANGUAGES</p>
+                        <p class="text-primary text-right mt-2 mb-0 mr-4 ">PROGRAMMEERTALEN</p>
                         <div class="mb-2">
-                            <div class="sidebar-header-underline-before-langs mr-4"></div>
+                            <div class="sidebar-header-underline-before-langs-nl mr-4"></div>
                             <div class="sidebar-header-underline mr-4"></div>
-                            <div class="sidebar-header-underline-after-langs mr-4"></div>
+                            <div class="sidebar-header-underline-after-langs-nl mr-4"></div>
                         </div>
 
                         <!-- Start of Java -->
@@ -270,7 +270,7 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                         </div>
                         <!-- End of Java -->
@@ -286,7 +286,7 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
                             </div>
                         </div>
                         <!-- End of PHP -->
@@ -302,7 +302,7 @@
                                 <i class="circle"></i>
                                 <i class="circle-open"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Advanced</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Geavanceerd</p>
                             </div>
                         </div>
                         <!-- End of C -->
@@ -315,10 +315,10 @@
                             <div class="col-6 pl-3">
                                 <i class="circle"></i>
                                 <i class="circle"></i>
-                                <i class="circle"></i>
                                 <i class="circle-open"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Advanced</p>
+                                <i class="circle-open"></i>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Basis</p>
                             </div>
                         </div>
                         <!-- End of C# -->
@@ -334,10 +334,10 @@
                                 <i class="circle-open"></i>
                                 <i class="circle-open"></i>
                                 <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Basic</p>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Basis</p>
                             </div>
                         </div>
-                        <!-- End of C# -->
+                        <!-- End of Haskell -->
                         <!-- End of Programming Languages -->
 
                     </div>
@@ -349,22 +349,22 @@
 
                         <!-- Start of Education -->
                         <div class="mt-2 ml-4">
-                            <p class="h2 mb-0">Education</p>
+                            <p class="h2 mb-0">Opleidingen</p>
                             <div class="mb-2">
-                                <div class="main-header-underline-before-ed"></div>
+                                <div class="main-header-underline-before-ed-nl"></div>
                                 <div class="main-header-underline"></div>
-                                <div class="main-header-underline-after-ed"></div>
+                                <div class="main-header-underline-after-ed-nl"></div>
                             </div>
 
                             <!-- Master -->
                             <div class="row text-small mr-4">
                                 <div class="col-3">
-                                    <p class="text-bold mb-0 text-right">2019 - present</p>
+                                    <p class="text-bold mb-0 text-right">2019 - heden</p>
                                     <p class="text-italic text-smaller text-right mb-0">University of Groningen</p>
                                 </div>
                                 <div class="col-9">
                                     <p class="text-bold mb-0"><span class="text-primary">Computing Science</span> | Master of Science</p>
-                                    <p class="text-smaller">I am currently enrolled in the Master's track: <span class="text-primary text-bold">Software Engineering and Distributed Systems</span>.</p>
+                                    <p class="text-smaller">Momenteel doe ik de masteropleiding: <span class="text-primary text-bold">Software Engineering and Distributed Systems</span>.</p>
                                 </div>
                             </div>
 
@@ -376,7 +376,7 @@
                                 </div>
                                 <div class="col-9">
                                     <p class="text-bold mb-0"><span class="text-primary">Computing Science</span> | Bachelor of Science</p>
-                                    <p class="text-smaller">I completed my bachelor's degree <span class="text-primary text-bold">Cum Laude</span>, with an average grade of <span class="text-primary text-bold">8.4/10</span>.</p>
+                                    <p class="text-smaller">Ik ben in 2019 <span class="text-primary text-bold">Cum Laude</span> afgestudeerd, met een gemiddelde van <span class="text-primary text-bold">8.4/10</span>.</p>
                                 </div>
                             </div>
 
@@ -387,10 +387,9 @@
                                     <p class="text-italic text-smaller text-right mb-0">Esdal College, Emmen</p>
                                 </div>
                                 <div class="col-9">
-                                    <p class="text-bold mb-0"><span class="text-primary">Gymnasium</span> | High School</p>
+                                    <p class="text-bold mb-0"><span class="text-primary">Gymnasium</span> | Voortgezet Onderwijs</p>
                                     <p class="text-smaller">
-                                        I graduated from High School with an average grade of <span class="text-primary text-bold">7.5/10</span>.
-                                        My study program was Nature and Technology.
+                                        Ik ben geslaagd met een gemiddelde van <span class="text-primary text-bold">7.5/10</span>, met het profiel Natuur en Techniek.
                                     </p>
                                 </div>
                             </div>
@@ -400,24 +399,24 @@
 
                         <!-- Start of Work Experience -->
                         <div class="mt-1 ml-4">
-                            <p class="h2 mb-0">Work Experience</p>
+                            <p class="h2 mb-0">Werkervaring</p>
                             <div class="mb-2">
-                                <div class="main-header-underline-before-exp"></div>
+                                <div class="main-header-underline-before-exp-nl"></div>
                                 <div class="main-header-underline"></div>
-                                <div class="main-header-underline-after-exp"></div>
+                                <div class="main-header-underline-after-exp-nl"></div>
                             </div>
 
                             <!-- YTCount -->
                             <div class="row text-small mr-4">
                                 <div class="col-9">
-                                    <p class="text-bold text-right mb-0"><span class="text-primary">YTCount</span> | Co-Founder, Software Engineer</p>
+                                    <p class="text-bold text-right mb-0"><span class="text-primary">YTCount</span> | Medeoprichter, Softwareontwikkelaar</p>
                                     <p class="text-smaller text-right">
-                                        YTCount is an iOS application with over 130.000 users using a backend written in PHP.
-                                        My responsibilities are with the backend and API design.
+                                        YTCount is een iOS-applicatie met meer dan 130.000 gebruikers, welke gebruik maakt van een backend geschreven in PHP.
+                                        Mijn verantwoordelijkheden liggen bij de ontwikkeling van de backend en het ontwerp van de API.
                                     </p>
                                 </div>
                                 <div class="col-3">
-                                    <p class="text-bold mb-0">2016 - present</p>
+                                    <p class="text-bold mb-0">2016 - heden</p>
                                     <p class="text-italic text-smaller mb-0">ytcount.com</p>
                                 </div>
                             </div>
@@ -427,8 +426,8 @@
                                 <div class="col-9">
                                     <p class="text-bold text-right mb-0"><span class="text-primary">DSM</span> | Operator</p>
                                     <p class="text-smaller text-right">
-                                        I had a summer job where I operated an extruder:
-                                        a large industrial machine that turned liquid polymer into solid grains.
+                                        Ik heb een zomerbaan gehad, waarbij ik verantwoordelijk was voor de operatie van een extruder:
+                                        een grote industriële machine wat vloeibaar polymeer in korrels omzet.
                                     </p>
                                 </div>
                                 <div class="col-3">
@@ -442,23 +441,22 @@
 
                         <!-- Start of Projects -->
                         <div class="mt-1 ml-4">
-                            <p class="h2 mb-0">Projects</p>
+                            <p class="h2 mb-0">Projecten</p>
                             <div class="mb-2">
-                                <div class="main-header-underline-before-prj"></div>
+                                <div class="main-header-underline-before-prj-nl"></div>
                                 <div class="main-header-underline"></div>
-                                <div class="main-header-underline-after-prj"></div>
+                                <div class="main-header-underline-after-prj-nl"></div>
                             </div>
 
                             <!-- Hyperledger Fabric -->
                             <div class="mr-4">
                                 <p class="text-bold mb-0 mr-4"><span class="text-primary">IBM CIC</span> | Hyperledger Fabric: Endorsement Policies</p>
                                 <p class="text-smaller">
-                                    The goal of this theoretical study was to research Hyperledger Fabric, a framework for building blockchain networks.
+                                    Het doel van dit theoretisch onderzoek was om Hyperledger Fabric te bestuderen, een framework voor Blockchain netwerken.
 
-                                    I researched the implications of endorsement policies, with respect to the ability to tamper with the ledger, privacy and how EPs can be used in various supply chain case studies.
+                                    Ik onderzocht de invloed van `endorsement policies` op de veiligheid van de ledger, privacy, en hoe handelsketens gebruik maken van Blockchain.
 
-                                    This project was carried out in collaboration with IBM Client Innovation Center Benelux under an NDA. I finalized this project with a grade of 8.5.
-
+                                    Dit project werd uitgevoerd in samenwerking met IBM Client Innovation Center Benelux.
 
                                 </p>
                             </div>
@@ -467,9 +465,9 @@
                             <div class="mr-4">
                                 <p class="text-bold mb-0 mr-4"><span class="text-primary">BelSimpel.nl</span> | Feed Generation System</p>
                                 <p class="text-smaller">
-                                    One of the largest stores in selling phones and phone subscriptions was using a legacy system to generate certain `feeds`.
-                                    These feeds contain pricing information for comparison websites.
-                                    In a small team we designed a new system that used parallelism for at least 95% quicker processing.
+                                    Een van de grootste telecomwinkels gebruikte een verouderd systeem om zogenaamde `feeds` te genereren.
+                                    Deze feeds bestaan uit prijsinformatie van telefoons en abonnementen, die door prijs vergelijkingswebsites gebruikt worden.
+                                    In een klein team hebben wij een nieuw systeem ontwikkeld, waardoor deze feeds middels parallelisme 95% sneller gegenereerd worden.
                                 </p>
                             </div>
 

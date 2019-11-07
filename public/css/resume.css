@@ -16753,9 +16753,14 @@ readers do not read off random characters that represent icons */
   line-height: 1cm;
 }
 
-.profile-picture {
+.profile {
   max-height: 300px;
   overflow: hidden;
+}
+
+.profile-picture {
+  overflow: hidden;
+  max-height: 300px;
 }
 
 .profile-picture img {
@@ -16820,6 +16825,15 @@ readers do not read off random characters that represent icons */
   width: 35mm;
 }
 
+.sidebar-header-underline-before-skills-nl {
+  position: absolute;
+  right: 0;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 30mm;
+}
+
 .sidebar-header-underline-after-skills {
   position: absolute;
   right: 0;
@@ -16827,6 +16841,15 @@ readers do not read off random characters that represent icons */
   height: 3px;
   background: #cca82d;
   width: 35mm;
+}
+
+.sidebar-header-underline-after-skills-nl {
+  position: absolute;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 30mm;
 }
 
 .sidebar-header-underline-before-langs {
@@ -16838,6 +16861,15 @@ readers do not read off random characters that represent icons */
   width: 54mm;
 }
 
+.sidebar-header-underline-before-langs-nl {
+  position: absolute;
+  right: 0;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 43mm;
+}
+
 .sidebar-header-underline-after-langs {
   position: absolute;
   right: 0;
@@ -16847,12 +16879,29 @@ readers do not read off random characters that represent icons */
   width: 54mm;
 }
 
+.sidebar-header-underline-after-langs-nl {
+  position: absolute;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 43mm;
+}
+
 .main-header-underline-before-ed {
   position: absolute;
   margin-top: -2px;
   height: 3px;
   background: #cca82d;
   width: 34mm;
+}
+
+.main-header-underline-before-ed-nl {
+  position: absolute;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 41mm;
 }
 
 .main-header-underline-after-ed {
@@ -16864,12 +16913,29 @@ readers do not read off random characters that represent icons */
   width: 34mm;
 }
 
+.main-header-underline-after-ed-nl {
+  position: relative;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 41mm;
+}
+
 .main-header-underline-before-exp {
   position: absolute;
   margin-top: -2px;
   height: 3px;
   background: #cca82d;
   width: 59mm;
+}
+
+.main-header-underline-before-exp-nl {
+  position: absolute;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 45mm;
 }
 
 .main-header-underline-after-exp {
@@ -16881,12 +16947,29 @@ readers do not read off random characters that represent icons */
   width: 59mm;
 }
 
+.main-header-underline-after-exp-nl {
+  position: relative;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 45mm;
+}
+
 .main-header-underline-before-prj {
   position: absolute;
   margin-top: -2px;
   height: 3px;
   background: #cca82d;
   width: 28mm;
+}
+
+.main-header-underline-before-prj-nl {
+  position: absolute;
+  margin-top: -2px;
+  height: 3px;
+  background: #cca82d;
+  width: 32mm;
 }
 
 .main-header-underline-after-prj {
@@ -16896,6 +16979,15 @@ readers do not read off random characters that represent icons */
   height: 3px;
   background: #cca82d;
   width: 28mm;
+}
+
+.main-header-underline-after-prj-nl {
+  position: relative;
+  right: 0;
+  margin-top: -1px;
+  height: 3px;
+  background: #cca82d;
+  width: 32mm;
 }
 
 .sidebar-icon {
