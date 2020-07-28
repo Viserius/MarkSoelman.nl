@@ -23,4 +23,13 @@ class ResumeController extends Controller
     {
         return view('resume.indexnl');
     }
+
+    /**
+     * Show the (motivational) letter
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
+     */
+    public function indexLetter()
+    {
+        return view('resume.letter');
+    }
 }
