@@ -29,7 +29,7 @@
                             My expertise is in solving complex problems and engineering efficient solutions using software languages.
                             I have a preference for object-oriented programming languages.
                             My native language is Dutch and I am also fluent in English.
-                            Currently, I am in the first year of my Master in Computing Science.
+                            Currently, I am in the second year of my Master in Computing Science.
                         </p>
                     </div>
                 </div>

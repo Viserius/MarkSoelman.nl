@@ -29,7 +29,7 @@
                             My expertise is in solving complex problems and engineering efficient solutions using software languages.
                             I have a preference for object-oriented programming languages.
                             My native language is Dutch and I am also fluent in English.
-                            Currently, I am in the first year of my Master in Computing Science.
+                            Currently, I am in the second year of my Master in Computing Science.
                         </p>
                     </div>
                 </div>
@@ -130,7 +130,6 @@
 
                             <!-- Master -->
                             <div class="row text-small mr-4 ml-2">
-                                <p>Dear course organizers,</p>
                                 <p>My name is Mark Soelman, my student number is s3224708, and I am starting the second year of my Master's degree in Computing Science: Software Engineering and Distributed Systems at the University of Groningen. I am writing this letter, since I am very interested in taking part in the course of Technology Based Entrepreneurship (WMIE006-05).</p>
                                 <p>For a couple of months, I was looking for a second-year course. Since I have already taken many CS-related courses, I wanted to add a course to my portfolio related to the fields of business, management and/or entrepreneurship. After looking at various alternatives, I came to the conclusion this would have my first choice, the reason for which I will explain now.</p>
                                 <p>While my area of expertise is very technical, it can be very creative as well. I believe software is one of the most important aspects of ensuring business continuity and realizing a company's goals. In this light, I feel enriching my software knowledge with entrepreneurial views would be useful for my future career, especially since I have no academical knowledge in this field so far at all.</p>

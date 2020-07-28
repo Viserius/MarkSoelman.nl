@@ -29,7 +29,7 @@
                             Mijn expertise ligt bij het oplossen van complexe problemen, en het ontwerpen van efficiënte oplossingen met behulp van software.
                             Ik heb een sterke voorkeur om te werken met objectgeoriënteerde talen.
                             Hoewel mijn moedertaal Nederlands is, spreek ik ook vloeiend Engels.
-                            Momenteel zit ik in het eerste jaar van mijn Masteropleiding, Computing Science.
+                            Momenteel zit ik in het tweede jaar van mijn Masteropleiding, Computing Science.
                         </p>
                     </div>
                 </div>
