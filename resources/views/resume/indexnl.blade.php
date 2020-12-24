@@ -152,6 +152,22 @@
                         </div>
                         <!-- End of Cloud Computing -->
 
+                        <!-- Start of Imperative Programming -->
+                        <div class="row mx-3 mt-1">
+                            <div class="col-5 px-0">
+                                <i class="circle"></i>
+                                <i class="circle"></i>
+                                <i class="circle"></i>
+                                <i class="circle"></i>
+                                <i class="circle-open"></i>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
+                            </div>
+                            <div class="col-7">
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">SOFTWARE ARCHITECTUUR</p>
+                            </div>
+                        </div>
+                        <!-- End of Data Structures -->
+
                         <!-- Start of Algorithms -->
                         <div class="row mx-3 mt-1">
                             <div class="col-5 px-0">
@@ -180,22 +196,6 @@
                             </div>
                             <div class="col-7">
                                 <p class="text-light text-smaller-line text-smaller skill-title mb-0">DATA STRUCTUREN</p>
-                            </div>
-                        </div>
-                        <!-- End of Data Structures -->
-
-                        <!-- Start of Imperative Programming -->
-                        <div class="row mx-3 mt-1">
-                            <div class="col-5 px-0">
-                                <i class="circle"></i>
-                                <i class="circle"></i>
-                                <i class="circle"></i>
-                                <i class="circle"></i>
-                                <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
-                            </div>
-                            <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">IMPERATIEF PROGRAMMEREN</p>
                             </div>
                         </div>
                         <!-- End of Data Structures -->
@@ -269,8 +269,8 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle"></i>
-                                <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Uitstekend</p>
+                                <i class="circle"></i>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Expert</p>
                             </div>
                         </div>
                         <!-- End of Java -->
@@ -380,20 +380,6 @@
                                 </div>
                             </div>
 
-                            <!-- Gymnasium -->
-                            <div class="row text-small mr-4">
-                                <div class="col-3">
-                                    <p class="text-bold text-right mb-0">2010 - 2016</p>
-                                    <p class="text-italic text-smaller text-right mb-0">Esdal College, Emmen</p>
-                                </div>
-                                <div class="col-9">
-                                    <p class="text-bold mb-0"><span class="text-primary">Gymnasium</span> | Voortgezet Onderwijs</p>
-                                    <p class="text-smaller">
-                                        Ik ben geslaagd met een gemiddelde van <span class="text-primary text-bold">7.5/10</span>, met het profiel Natuur en Techniek.
-                                    </p>
-                                </div>
-                            </div>
-
                         </div>
                         <!-- End of Education -->
 
@@ -406,6 +392,36 @@
                                 <div class="main-header-underline-after-exp-nl"></div>
                             </div>
 
+                            <!-- DUO -->
+                            <div class="row text-small mr-4">
+                                <div class="col-9">
+                                    <p class="text-bold text-right mb-0"><span class="text-primary">Dienst Uitvoering Onderwijs</span> | Technical Consultant</p>
+                                    <p class="text-smaller text-right">
+                                        Na het voltooien vn mijn stage, werd mij een baan aangeboden om DUO te helpen de migratie naar de Cloud voor te bereiden.
+                                    </p>
+                                </div>
+                                <div class="col-3">
+                                    <p class="text-bold mb-0">2020</p>
+                                    <p class="text-italic text-smaller mb-0">duo.nl, Groningen</p>
+                                </div>
+                            </div>
+
+                            <!-- RUG -->
+                            <div class="row text-small mr-4">
+                                <div class="col-9">
+                                    <p class="text-bold text-right mb-0"><span class="text-primary">Rijksuniversiteit Groningen</span> | Teaching Assistant</p>
+                                    <p class="text-smaller text-right">
+                                        Ik assisteerde professors bij het geven van Mastervakken.
+
+                                        Denk aan het geven van demos, opdrachten nakijken, en studenten helpen.
+                                    </p>
+                                </div>
+                                <div class="col-3">
+                                    <p class="text-bold mb-0">2020</p>
+                                    <p class="text-italic text-smaller mb-0">rug.nl, Groningen</p>
+                                </div>
+                            </div>
+
                             <!-- YTCount -->
                             <div class="row text-small mr-4">
                                 <div class="col-9">
@@ -416,23 +432,8 @@
                                     </p>
                                 </div>
                                 <div class="col-3">
-                                    <p class="text-bold mb-0">2016 - heden</p>
+                                    <p class="text-bold mb-0">2016 - 2020</p>
                                     <p class="text-italic text-smaller mb-0">ytcount.com</p>
-                                </div>
-                            </div>
-
-                            <!-- DSM -->
-                            <div class="row text-small mr-4">
-                                <div class="col-9">
-                                    <p class="text-bold text-right mb-0"><span class="text-primary">DSM</span> | Operator</p>
-                                    <p class="text-smaller text-right">
-                                        Ik heb een zomerbaan gehad, waarbij ik verantwoordelijk was voor de operatie van een extruder:
-                                        een grote industriële machine wat vloeibaar polymeer in korrels omzet.
-                                    </p>
-                                </div>
-                                <div class="col-3">
-                                    <p class="text-bold mb-0">2018</p>
-                                    <p class="text-italic text-smaller mb-0">DSM, Emmen</p>
                                 </div>
                             </div>
 
@@ -450,20 +451,20 @@
 
                             <!-- Hyperledger Fabric -->
                             <div class="mr-4">
-                                <p class="text-bold mb-0 mr-4"><span class="text-primary">IBM CIC</span> | Hyperledger Fabric: Endorsement Policies</p>
+                                <p class="text-bold mb-0 mr-4 text-small"><span class="text-primary">IBM CIC</span> | Hyperledger Fabric: Endorsement Policies</p>
                                 <p class="text-smaller">
                                     Het doel van dit theoretisch onderzoek was om Hyperledger Fabric te bestuderen, een framework voor Blockchain netwerken.
 
                                     Ik onderzocht de invloed van `endorsement policies` op de veiligheid van de ledger, privacy, en hoe handelsketens gebruik maken van Blockchain.
 
-                                    Dit project werd uitgevoerd in samenwerking met IBM Client Innovation Center Benelux.
+                                    Dit project werd uitgevoerd in samenwerking met IBM Client Innovation Center Benelux, en is inmiddels gepubliceerd in IEEE DAPPS 2020 conference.
 
                                 </p>
                             </div>
 
                             <!-- BelSimpel -->
                             <div class="mr-4">
-                                <p class="text-bold mb-0 mr-4"><span class="text-primary">BelSimpel.nl</span> | Feed Generation System</p>
+                                <p class="text-bold mb-0 mr-4 text-small"><span class="text-primary">BelSimpel.nl</span> | Feed Generation System</p>
                                 <p class="text-smaller">
                                     Een van de grootste telecomwinkels gebruikte een verouderd systeem om zogenaamde `feeds` te genereren.
                                     Deze feeds bestaan uit prijsinformatie van telefoons en abonnementen, die door prijs vergelijkingswebsites gebruikt worden.

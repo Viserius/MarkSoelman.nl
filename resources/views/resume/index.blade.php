@@ -152,6 +152,22 @@
                         </div>
                         <!-- End of Cloud Programming -->
 
+                        <!-- Start of Software Architecture -->
+                        <div class="row mx-3 mt-1">
+                            <div class="col-5 px-0">
+                                <i class="circle"></i>
+                                <i class="circle"></i>
+                                <i class="circle"></i>
+                                <i class="circle"></i>
+                                <i class="circle-open"></i>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                            </div>
+                            <div class="col-7">
+                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">SOFTWARE ARCHITECTURE</p>
+                            </div>
+                        </div>
+                        <!-- End of Software Architecture -->
+
                         <!-- Start of Algorithms -->
                         <div class="row mx-3 mt-1">
                             <div class="col-5 px-0">
@@ -180,22 +196,6 @@
                             </div>
                             <div class="col-7">
                                 <p class="text-light text-smaller-line text-smaller skill-title mb-0">DATA STRUCTURES</p>
-                            </div>
-                        </div>
-                        <!-- End of Data Structures -->
-
-                        <!-- Start of Imperative Programming -->
-                        <div class="row mx-3 mt-1">
-                            <div class="col-5 px-0">
-                                <i class="circle"></i>
-                                <i class="circle"></i>
-                                <i class="circle"></i>
-                                <i class="circle"></i>
-                                <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
-                            </div>
-                            <div class="col-7">
-                                <p class="text-light text-smaller-line text-smaller skill-title mb-0">IMPERATIVE PROGRAMMING</p>
                             </div>
                         </div>
                         <!-- End of Data Structures -->
@@ -269,8 +269,8 @@
                                 <i class="circle"></i>
                                 <i class="circle"></i>
                                 <i class="circle"></i>
-                                <i class="circle-open"></i>
-                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Proficient</p>
+                                <i class="circle"></i>
+                                <p class="text-white text-smaller text-smaller-line skill-description mb-0">Expert</p>
                             </div>
                         </div>
                         <!-- End of Java -->
@@ -380,21 +380,6 @@
                                 </div>
                             </div>
 
-                            <!-- Gymnasium -->
-                            <div class="row text-small mr-4">
-                                <div class="col-3">
-                                    <p class="text-bold text-right mb-0">2010 - 2016</p>
-                                    <p class="text-italic text-smaller text-right mb-0">Esdal College, Emmen</p>
-                                </div>
-                                <div class="col-9">
-                                    <p class="text-bold mb-0"><span class="text-primary">Gymnasium</span> | High School</p>
-                                    <p class="text-smaller">
-                                        I graduated from High School with an average grade of <span class="text-primary text-bold">7.5/10</span>.
-                                        My study program was Nature and Technology.
-                                    </p>
-                                </div>
-                            </div>
-
                         </div>
                         <!-- End of Education -->
 
@@ -407,6 +392,35 @@
                                 <div class="main-header-underline-after-exp"></div>
                             </div>
 
+                            <!-- DUO -->
+                            <div class="row text-small mr-4">
+                                <div class="col-9">
+                                    <p class="text-bold text-right mb-0"><span class="text-primary">Dienst Uitvoering Onderwijs</span> | Technical Consultant</p>
+                                    <p class="text-smaller text-right">
+                                        After my internship was completed, I was offered a temporary job to help DUO in preparing their migration to the cloud.
+                                    </p>
+                                </div>
+                                <div class="col-3">
+                                    <p class="text-bold mb-0">2020</p>
+                                    <p class="text-italic text-smaller mb-0">duo.nl, Groningen</p>
+                                </div>
+                            </div>
+
+                            <!-- RUG -->
+                            <div class="row text-small mr-4">
+                                <div class="col-9">
+                                    <p class="text-bold text-right mb-0"><span class="text-primary">University of Groningen</span> | Teaching Assistant</p>
+                                    <p class="text-smaller text-right">
+                                        I assisted professors in teaching Master courses.
+                                        Activities include giving demos, reviewing assignments, and guiding students.
+                                    </p>
+                                </div>
+                                <div class="col-3">
+                                    <p class="text-bold mb-0">2020</p>
+                                    <p class="text-italic text-smaller mb-0">rug.nl, Groningen</p>
+                                </div>
+                            </div>
+
                             <!-- YTCount -->
                             <div class="row text-small mr-4">
                                 <div class="col-9">
@@ -417,23 +431,8 @@
                                     </p>
                                 </div>
                                 <div class="col-3">
-                                    <p class="text-bold mb-0">2016 - present</p>
+                                    <p class="text-bold mb-0">2016 - 2020</p>
                                     <p class="text-italic text-smaller mb-0">ytcount.com</p>
-                                </div>
-                            </div>
-
-                            <!-- DSM -->
-                            <div class="row text-small mr-4">
-                                <div class="col-9">
-                                    <p class="text-bold text-right mb-0"><span class="text-primary">DSM</span> | Operator</p>
-                                    <p class="text-smaller text-right">
-                                        I had a summer job where I operated an extruder:
-                                        a large industrial machine that turned liquid polymer into solid grains.
-                                    </p>
-                                </div>
-                                <div class="col-3">
-                                    <p class="text-bold mb-0">2018</p>
-                                    <p class="text-italic text-smaller mb-0">DSM, Emmen</p>
                                 </div>
                             </div>
 
@@ -451,13 +450,15 @@
 
                             <!-- Hyperledger Fabric -->
                             <div class="mr-4">
-                                <p class="text-bold mb-0 mr-4"><span class="text-primary">IBM CIC</span> | Hyperledger Fabric: Endorsement Policies</p>
+                                <p class="text-bold mb-0 mr-4 text-small"><span class="text-primary">IBM CIC</span> | Hyperledger Fabric: Endorsement Policies</p>
                                 <p class="text-smaller">
-                                    The goal of this theoretical study was to research Hyperledger Fabric, a framework for building blockchain networks.
+                                    The goal of this study was to research Hyperledger Fabric, a framework for building blockchain networks.
 
                                     I researched the implications of endorsement policies, with respect to the ability to tamper with the ledger, privacy and how EPs can be used in various supply chain case studies.
 
-                                    This project was carried out in collaboration with IBM Client Innovation Center Benelux under an NDA. I finalized this project with a grade of 8.5.
+                                    This project was carried out in collaboration with IBM Client Innovation Center Benelux.
+
+                                    Our paper was published at the IEEE DAPPS 2020 conference.
 
 
                                 </p>
@@ -465,7 +466,7 @@
 
                             <!-- BelSimpel -->
                             <div class="mr-4">
-                                <p class="text-bold mb-0 mr-4"><span class="text-primary">BelSimpel.nl</span> | Feed Generation System</p>
+                                <p class="text-bold mb-0 mr-4 text-small"><span class="text-primary">BelSimpel.nl</span> | Feed Generation System</p>
                                 <p class="text-smaller">
                                     One of the largest stores in selling phones and phone subscriptions was using a legacy system to generate certain `feeds`.
                                     These feeds contain pricing information for comparison websites.
